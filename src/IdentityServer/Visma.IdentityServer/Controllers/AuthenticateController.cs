@@ -18,7 +18,6 @@ public sealed class AuthenticateController : ControllerBase
     /// <summary>
     /// Initializes a new instance of the <see cref="AuthenticateController"/>
     /// </summary>
-    /// <exception cref="ArgumentNullException"></exception>
     public AuthenticateController(IAuthenticationService authenticationService)
     {
         _authenticationService = authenticationService ?? throw new ArgumentNullException(nameof(authenticationService));
