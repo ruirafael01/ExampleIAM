@@ -1,0 +1,18 @@
+const Declares = {
+    LOGIN_STATUS_SUCCESS: 'SUCCESS',
+    QUERY_PARAM_RETURN_URL: 'ReturnUrl',
+    PAGE_LOGIN: 'login',
+    QUERY_PARAM_LOGOUTID: 'logoutId',
+    PAGE_LOGOUT: 'logout',
+    PAGE_ERROR: 'error',
+    QUERY_PARAM_ERRORID: 'errorId',
+    ERR_STATUP_NOT_READY: 'StatupNotReady',
+    ERR_WRONG_USERNAME_OR_PASSWORD: 'WrongUsernameOrPassword',
+    ERR_TOO_MANY_USERS: 'TooManyUsers',
+    ERR_INTERNAL_SERVER_ERROR: 'INTERNAL_SERVER_ERROR',
+    ERR_WCF_UNAVAILABLE: 'WCF_UNAVAILABLE',
+    SESSION_KEY_LOCATION: "",
+    LOGGEDIN_SESSION_REDIRECT_PATH: "",
+    QUERY_PARAM_UILANGUAGE: "ui_locales"
+}
+export { Declares };

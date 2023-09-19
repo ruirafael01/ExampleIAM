@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/src/IdentityServer/Visma.IdentityServer/keys/is-signing-key-C402929D79874B1E23873A19B1F76B9B.json
