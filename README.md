@@ -1,8 +1,8 @@
-# VISMA.IAM
-The goal with this solution was to not only develop something that adhered to the requirements in the challenge description but also to try and develop an IAM solution that would somewhat resemble the requirements for a distributed and complex system with different authentication and authorization needs. As such, the proposed solution contains the following functionalities:
+# Example.IAM
+The goal with this solution was to develop an example of a custom identity server solution for IAM(Identity and Access Management) which  would somewhat resemble the requirements for a distributed and complex system with different authentication and authorization needs. As such, the example solution contains the following functionalities:
 
 - An SSO that can be used through out Economics.
-- SSO integration with Google's external provider. Disclaimer: Upon the submission of this solution, it has not been possible to fully integrate with Google's API.
+- SSO integration with Google's external provider. Disclaimer: this is still not yet implemented.
 - Rate limiting to prevent brute force attacks on logins.
 - Authorization code flow for login.
 - Client credentials flow for accessing protected resources in a machine to machine communication scenario.
@@ -16,8 +16,6 @@ The SSO UI is a simple React application:
 ![ReactLogin](./docs/images/Login.png)
 
 The React SPA to show the different IAM flows and scenarios has the following looks:
-
-![ReactSPA](./docs/images/Application.png)
 
 In the following sections there are 3 component diagrams that show the developed solution from 3 different levels.
 

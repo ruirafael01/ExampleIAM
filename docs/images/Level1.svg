@@ -18,19 +18,19 @@
       ><path d="M-7 -7 L158 -7 L158 51 L-7 51 L-7 -7 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath5"
-      ><path d="M0 0 L0 7 L147 7 L147 0 Z"
+      ><path d="M0 0 L0 40 L123 40 L123 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath6"
-      ><path d="M0 0 L0 40 L123 40 L123 0 Z"
+      ><path d="M0 0 L0 7 L147 7 L147 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath7"
       ><path d="M-7 -7 L164 -7 L164 51 L-7 51 L-7 -7 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath8"
-      ><path d="M0 0 L0 7 L153 7 L153 0 Z"
+      ><path d="M0 0 L0 40 L129 40 L129 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath9"
-      ><path d="M0 0 L0 40 L129 40 L129 0 Z"
+      ><path d="M0 0 L0 7 L153 7 L153 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath10"
       ><path d="M-7 -7 L31 -7 L31 31 L-7 31 L-7 -7 Z"
@@ -39,13 +39,13 @@
       ><path d="M-7 -7 L23 -7 L23 23 L-7 23 L-7 -7 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath12"
-      ><path d="M-80 -15 L160 -15 L160 30 L-80 30 L-80 -15 Z"
+      ><path d="M-121 -15 L242 -15 L242 30 L-121 30 L-121 -15 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath13"
       ><path d="M-72 -15 L144 -15 L144 30 L-72 30 L-72 -15 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath14"
-      ><path d="M-121 -15 L242 -15 L242 30 L-121 30 L-121 -15 Z"
+      ><path d="M-80 -15 L160 -15 L160 30 L-80 30 L-80 -15 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath15"
       ><path d="M0 0 L186 0 L186 104 L0 104 L0 0 Z"
@@ -100,8 +100,8 @@
       >&lt;&lt;component&gt;&gt;</text
       ><text x="14" xml:space="preserve" y="30" clip-path="url(#clipPath2)" stroke="none"
       >&lt;&lt;system&gt;&gt;</text
-      ><text x="17" xml:space="preserve" y="45" clip-path="url(#clipPath2)" font-weight="bold" stroke="none"
-      >Visma.IAM</text
+      ><text x="11" xml:space="preserve" y="45" clip-path="url(#clipPath2)" font-weight="bold" stroke="none"
+      >ExampleIAM</text
     ></g
     ><g font-size="11px" transform="translate(319,8)" fill-opacity="1" fill="rgb(122,207,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(122,207,245)" font-weight="bold" stroke-opacity="1"
     ><rect x="0" width="147" height="40" y="0" clip-path="url(#clipPath4)" stroke="none"
@@ -118,9 +118,9 @@
       /><line stroke-linecap="square" clip-path="url(#clipPath4)" fill="none" x1="131" x2="131" y1="18" y2="21" stroke-linejoin="miter" stroke-miterlimit="10"
     /></g
     ><g font-size="11px" transform="translate(319,8)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="20" xml:space="preserve" y="15" clip-path="url(#clipPath6)" stroke="none"
+    ><text x="20" xml:space="preserve" y="15" clip-path="url(#clipPath5)" stroke="none"
       >&lt;&lt;component&gt;&gt;</text
-      ><text x="4" xml:space="preserve" y="30" clip-path="url(#clipPath6)" font-weight="bold" stroke="none"
+      ><text x="4" xml:space="preserve" y="30" clip-path="url(#clipPath5)" font-weight="bold" stroke="none"
       >Microsoft SQL Server</text
     ></g
     ><g font-size="11px" transform="translate(319,95)" fill-opacity="1" fill="rgb(122,207,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(122,207,245)" font-weight="bold" stroke-opacity="1"
@@ -138,9 +138,9 @@
       /><line stroke-linecap="square" clip-path="url(#clipPath7)" fill="none" x1="137" x2="137" y1="18" y2="21" stroke-linejoin="miter" stroke-miterlimit="10"
     /></g
     ><g font-size="11px" transform="translate(319,95)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="23" xml:space="preserve" y="15" clip-path="url(#clipPath9)" stroke="none"
+    ><text x="23" xml:space="preserve" y="15" clip-path="url(#clipPath8)" stroke="none"
       >&lt;&lt;component&gt;&gt;</text
-      ><text x="49" xml:space="preserve" y="30" clip-path="url(#clipPath9)" font-weight="bold" stroke="none"
+      ><text x="49" xml:space="preserve" y="30" clip-path="url(#clipPath8)" font-weight="bold" stroke="none"
       >Redis</text
     ></g
     ><g font-size="11px" transform="translate(218,18)" fill-opacity="1" fill="rgb(122,207,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(122,207,245)" font-weight="bold" stroke-opacity="1"
@@ -170,9 +170,9 @@
       /><line stroke-linecap="square" clip-path="url(#clipPath7)" fill="none" x1="137" x2="137" y1="18" y2="21" stroke-linejoin="miter" stroke-miterlimit="10"
     /></g
     ><g font-size="11px" transform="translate(319,182)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="23" xml:space="preserve" y="15" clip-path="url(#clipPath9)" stroke="none"
+    ><text x="23" xml:space="preserve" y="15" clip-path="url(#clipPath8)" stroke="none"
       >&lt;&lt;component&gt;&gt;</text
-      ><text x="33" xml:space="preserve" y="30" clip-path="url(#clipPath9)" font-weight="bold" stroke="none"
+      ><text x="33" xml:space="preserve" y="30" clip-path="url(#clipPath8)" font-weight="bold" stroke="none"
       >Google API</text
     ></g
     ><g font-size="11px" transform="translate(218,194)" fill-opacity="1" fill="rgb(122,207,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(122,207,245)" font-weight="bold" stroke-opacity="1"
@@ -199,17 +199,17 @@
     ><g stroke-linecap="butt" font-size="11px" transform="translate(111,200)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1" stroke-miterlimit="0"
     ><rect fill="none" x="0" width="12" height="12" y="0" clip-path="url(#clipPath11)"
     /></g
-    ><g font-size="11px" transform="translate(188,214)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" font-weight="bold" stroke-opacity="1"
+    ><g font-size="11px" transform="translate(168,45)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" font-weight="bold" stroke-opacity="1"
     ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath12)" stroke="none"
-      >Google API</text
+      >MS SQL Server API</text
     ></g
     ><g font-size="11px" transform="translate(190,135)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" font-weight="bold" stroke-opacity="1"
     ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath13)" stroke="none"
       >Redis API</text
     ></g
-    ><g font-size="11px" transform="translate(168,45)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" font-weight="bold" stroke-opacity="1"
+    ><g font-size="11px" transform="translate(188,214)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" font-weight="bold" stroke-opacity="1"
     ><text x="10" xml:space="preserve" y="12" clip-path="url(#clipPath14)" stroke="none"
-      >MS SQL Server API</text
+      >Google API</text
     ></g
     ><g stroke-linecap="butt" font-size="11px" transform="translate(186,-22)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke-linejoin="round" stroke="black" stroke-opacity="1"
     ><line y2="50" fill="none" x1="50" clip-path="url(#clipPath16)" x2="132" y1="50"

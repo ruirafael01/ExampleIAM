@@ -60,10 +60,10 @@
       /><line stroke-linecap="square" clip-path="url(#clipPath1)" fill="none" x1="296" x2="296" y1="18" y2="21" stroke-linejoin="miter" stroke-miterlimit="10"
     /></g
     ><g font-size="11px" transform="translate(2,2)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="103" xml:space="preserve" y="15" clip-path="url(#clipPath2)" stroke="none"
+    ><text x="102" xml:space="preserve" y="15" clip-path="url(#clipPath2)" stroke="none"
       >&lt;&lt;component&gt;&gt;</text
-      ><text x="65" xml:space="preserve" y="30" clip-path="url(#clipPath2)" font-weight="bold" stroke="none"
-      >Visma.IdentityServer.Backend</text
+      ><text x="58" xml:space="preserve" y="30" clip-path="url(#clipPath2)" font-weight="bold" stroke="none"
+      >Example.IdentityServer.Backend</text
     ></g
     ><g font-size="11px" transform="translate(12,53)" fill-opacity="1" fill="rgb(122,207,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(122,207,245)" font-weight="bold" stroke-opacity="1"
     ><rect x="0" width="292" height="58" y="0" clip-path="url(#clipPath4)" stroke="none"
@@ -80,10 +80,10 @@
       /><line stroke-linecap="square" clip-path="url(#clipPath4)" fill="none" x1="276" x2="276" y1="18" y2="21" stroke-linejoin="miter" stroke-miterlimit="10"
     /></g
     ><g font-size="11px" transform="translate(12,53)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="93" xml:space="preserve" y="15" clip-path="url(#clipPath5)" stroke="none"
+    ><text x="92" xml:space="preserve" y="15" clip-path="url(#clipPath5)" stroke="none"
       >&lt;&lt;component&gt;&gt;</text
-      ><text x="48" xml:space="preserve" y="30" clip-path="url(#clipPath5)" font-weight="bold" stroke="none"
-      >Visma.IdentityServer.Application</text
+      ><text x="41" xml:space="preserve" y="30" clip-path="url(#clipPath5)" font-weight="bold" stroke="none"
+      >Example.IdentityServer.Application</text
     ></g
     ><g font-size="11px" transform="translate(12,200)" fill-opacity="1" fill="rgb(122,207,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(122,207,245)" font-weight="bold" stroke-opacity="1"
     ><rect x="0" width="292" height="69" y="0" clip-path="url(#clipPath7)" stroke="none"
@@ -100,10 +100,10 @@
       /><line stroke-linecap="square" clip-path="url(#clipPath7)" fill="none" x1="276" x2="276" y1="18" y2="21" stroke-linejoin="miter" stroke-miterlimit="10"
     /></g
     ><g font-size="11px" transform="translate(12,200)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="92" xml:space="preserve" y="15" clip-path="url(#clipPath8)" stroke="none"
+    ><text x="93" xml:space="preserve" y="15" clip-path="url(#clipPath8)" stroke="none"
       >&lt;&lt;component&gt;&gt;</text
-      ><text x="41" xml:space="preserve" y="30" clip-path="url(#clipPath8)" font-weight="bold" stroke="none"
-      >Visma.IdentityServer.Infrastructure</text
+      ><text x="35" xml:space="preserve" y="30" clip-path="url(#clipPath8)" font-weight="bold" stroke="none"
+      >Example.IdentityServer.Infrastructure</text
     ></g
     ><g font-size="11px" transform="translate(12,295)" fill-opacity="1" fill="rgb(122,207,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(122,207,245)" font-weight="bold" stroke-opacity="1"
     ><rect x="0" width="292" height="40" y="0" clip-path="url(#clipPath10)" stroke="none"
@@ -120,10 +120,10 @@
       /><line stroke-linecap="square" clip-path="url(#clipPath10)" fill="none" x1="276" x2="276" y1="18" y2="21" stroke-linejoin="miter" stroke-miterlimit="10"
     /></g
     ><g font-size="11px" transform="translate(12,295)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="93" xml:space="preserve" y="15" clip-path="url(#clipPath11)" stroke="none"
+    ><text x="92" xml:space="preserve" y="15" clip-path="url(#clipPath11)" stroke="none"
       >&lt;&lt;component&gt;&gt;</text
-      ><text x="57" xml:space="preserve" y="30" clip-path="url(#clipPath11)" font-weight="bold" stroke="none"
-      >Visma.IdentityServer.Domain</text
+      ><text x="50" xml:space="preserve" y="30" clip-path="url(#clipPath11)" font-weight="bold" stroke="none"
+      >Example.IdentityServer.Domain</text
     ></g
     ><g font-size="11px" transform="translate(12,135)" fill-opacity="1" fill="rgb(122,207,245)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(122,207,245)" font-weight="bold" stroke-opacity="1"
     ><rect x="0" width="292" height="40" y="0" clip-path="url(#clipPath10)" stroke="none"
@@ -140,10 +140,10 @@
       /><line stroke-linecap="square" clip-path="url(#clipPath10)" fill="none" x1="276" x2="276" y1="18" y2="21" stroke-linejoin="miter" stroke-miterlimit="10"
     /></g
     ><g font-size="11px" transform="translate(12,135)" fill-opacity="1" fill="black" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="black" stroke-opacity="1"
-    ><text x="93" xml:space="preserve" y="15" clip-path="url(#clipPath11)" stroke="none"
+    ><text x="92" xml:space="preserve" y="15" clip-path="url(#clipPath11)" stroke="none"
       >&lt;&lt;component&gt;&gt;</text
-      ><text x="44" xml:space="preserve" y="30" clip-path="url(#clipPath11)" font-weight="bold" stroke="none"
-      >Visma.IdentityServer.RateLimiting</text
+      ><text x="37" xml:space="preserve" y="30" clip-path="url(#clipPath11)" font-weight="bold" stroke="none"
+      >Example.IdentityServer.RateLimiting</text
     ></g
     ><g font-size="8px" fill-opacity="1" fill="rgb(120,120,120)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" stroke="rgb(120,120,120)" stroke-opacity="1"
     ><text x="0" xml:space="preserve" y="10" stroke="none"
